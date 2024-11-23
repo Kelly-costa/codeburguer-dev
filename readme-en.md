@@ -351,21 +351,6 @@ After that, in the terminal:
           </table>
         </summary>
 
-| :placard: Vitrine.Dev | Lucas Maciel |
-| -------------  | --- |
-| :sparkles: Nome        | **🍔 CodeBurger v2**
-| :label: Tecnologias | vite.js, react.js, react hook form, styled-components, yup, react-toastify, axios, react-elastic-carousel, react-router-dom, material ui, sequelize orm, mongoose odm, postgres sql, mongo db, express.js, insomnia, multer, javascript, css, html
-| :camera: Img         | <img src="https://github.com/Luk4x/codeburger-v2/assets/86276393/cd822662-10c1-4f59-a604-3407f2aacf4b#vitrinedev" alt="vitrine.dev thumb" width="100%"/>
-
-</details>
-</td>
-</tr>
-</table>
-
-<p align="right">
-  <a href="#-codeburger-v2">Back to Top</a>
-</p>
-
 <!--
   keep tecnology, phase numbers and vitrinedev techs updated
   add vitrinedev and portfolio-project tag
